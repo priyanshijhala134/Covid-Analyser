@@ -44,7 +44,10 @@ COVID-Analyser is a beginner-friendly Python project that analyzes global COVID-
 
 ---
 
-```python
-Cluster 1: High-risk countries
-Cluster 2: Moderate
-Cluster 3: Low-risk
+**Output**
+<img width="724" height="566" alt="image" src="https://github.com/user-attachments/assets/8cf46910-a61f-4a87-b056-bd2f0a9d6265" />
+
+<img width="746" height="574" alt="image" src="https://github.com/user-attachments/assets/df7931af-d129-4ece-a5e6-850a618a7bc5" />
+
+
+<img width="744" height="568" alt="image" src="https://github.com/user-attachments/assets/9287b66b-82a4-482f-b43e-022fc45ac4fd" />
